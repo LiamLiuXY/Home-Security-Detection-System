@@ -1,0 +1,15 @@
+SEP728_Group2_Final Project_Submission
+
+List of Files:
+1_SEP728_Group2_Project_Report.pdf
+2_SEP728_Group2_Project_PPT.pdf
+3_codeUnderPi.py
+4_best.pt
+5_Server.zip 
+
+demo video: 
+https://www.youtube.com/watch?v=zC4528xYgHw 
+
+note: file best.pt need to be loaded to run the Yolo model  
+
+
