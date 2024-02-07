@@ -1,4 +1,4 @@
-#Home Security Detection System: Protecting Your Home with Advanced Technology
+**Home Security Detection System: Protecting Your Home with Advanced Technology**
 
 In an age where security is paramount, our Home Security Detection System offers a cutting-edge solution to safeguard your residence. Built upon the foundation of Raspberry Pi, PiCam, and an ultrasonic distance detection sensor, this innovative system provides robust protection against unauthorized access.
 
